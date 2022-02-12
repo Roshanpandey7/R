@@ -193,7 +193,7 @@ nav .fa{
 
 
 .link{
-  background: red;
+  background: #949398FF;
   position: fixed;
   right: -200px;
   top: 0;
@@ -281,18 +281,18 @@ flex-direction: column;
   left:0;
   height: 400px;
   width: 300px;
-  color:magenta;
+  color:#ff934f;
   font-size: 30px;
   cursor: pointer;
 }
 .sub:hover h3{
-  background-color: red;
+  background-color: #ff934f;
   position: absolute;
   top:0;
   left:0;
   height: 400px;
   width: 300px;
-  color:gray;
+  color:#f7ff58;
  font-size: 35px; 
 transform: translateY(75%);
 transition: 1s;
